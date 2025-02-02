@@ -12,3 +12,12 @@ git remote -v ---(to verify remo)
 git branch ---(to check the branch)
 git branch -M <name> (to rename branch)
 git push  -u origin main(-u will be use so that next time you push you only have to use git push)
+
+** Branch Commands **
+git branch 
+git branch -M <name> (to rename the branch)
+git checkout <-branch name-> (to navigate)
+git checkout -b <-new branch name - > (to create branch)
+git branch -d <branch-name> -- to delete branch
+
+**git branch command end
