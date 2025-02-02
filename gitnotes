@@ -21,3 +21,14 @@ git checkout -b <-new branch name - > (to create branch)
 git branch -d <branch-name> -- to delete branch
 
 **git branch command end
+
+
+**merging code
+
+# First way 
+git diff <branchname> (to compare commits,branches,files & more)
+git merge <branchname> (to merge 2 branches)
+
+# Second Way
+pull request
+-- It lets you tell others about changes you've pushed to a branch in a repository on Github
