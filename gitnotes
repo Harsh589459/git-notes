@@ -1,0 +1,9 @@
+Clone - git clone http.......
+git status - to get the status of repository
+git add . - to move changes from unstage to stage
+git commit -m "message" --- to commit changes to git
+git push origin main --- to upload local repo content to remote repo
+
+
+mkDir - To create folder
+init command - 
